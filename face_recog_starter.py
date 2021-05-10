@@ -68,3 +68,4 @@ y_pred = clf.predict(x_test_pca)
 print(classification_report(y_test,y_pred))
 # the prediction we are trying to predict. We predict
 # final output: from 1000+ images, it is reduced down to 39 faces.
+#youtube tutorial: https://www.youtube.com/watch?v=g4Urfno4aTc
